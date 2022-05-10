@@ -1,0 +1,12 @@
+[submodule "pollutionblog/public"]
+	path = pollutionblog/public
+	url = https://github.com/Deshasta12/Deshasta12.github.io.git
+	branch = main
+[submodule "pollutionblog/Deshasta12.github.io"]
+	path = pollutionblog/Deshasta12.github.io
+	url = https://github.com/Deshasta12/Deshasta12.github.io.git
+	branch = main
+[submodule "pollutionblog/public2"]
+	path = pollutionblog/public2
+	url = https://github.com/Deshasta12/Deshasta12.github.io.git
+	branch = main
